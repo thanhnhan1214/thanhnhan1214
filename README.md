@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Lê Thành Nhân 👋</h1>
   
+  <!-- Hiệu ứng chữ chạy động -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Final-year+Software+Engineering+Student;Backend+%26+Web+Developer+(.NET+%2F+Python+%2F+Lua);Founder+%26+Developer+of+New+Trust+City+(2%2C050%2B+Members)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Final-year+Software+Engineering+Student;Sinh+viên+Năm+cuối+KTPM+(.NET+%2F+Python);Founder+New+Trust+City+(2%2C050%2B+Members)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -17,15 +18,15 @@
 
 ---
 
-### 🚀 About Me & Achievements
-- 🎓 Final-year **Software Engineering** student preparing for graduation.
-- 🎮 **Game Server Developer & Administrator:** Built and scaled **New Trust City** (GTA V RolePlay / FiveM Server) to **2,050+ community members**, developing custom Lua scripts, NUI HUDs, anti-cheat mechanisms, and database integrations.
-- 🔭 **Capstone Project (Đồ án 2):** Developing **AquariumStore** — Full-stack E-Commerce & Store Management System using **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.
-- 💡 **Interests:** Scalable backend systems, database optimization, custom game scripting, and ESP32 IoT hardware.
+### 🚀 About Me / Giới thiệu bản thân
+- 🎓 **Final-year Software Engineering Student** tại Nam Cần Thơ University. Đang chuẩn bị ra trường và định hướng phát triển theo con đường **Backend & Web Developer**.
+- 🎮 **Community Developer & Admin:** Sáng lập và vận hành máy chủ **New Trust City** (GTA V RolePlay / FiveM) với hơn **2,050+ thành viên**[cite: 12]. Trực tiếp viết script Lua, thiết kế NUI giao diện, tối ưu cơ sở dữ liệu và hệ thống chống gian lận (Anti-cheat).
+- 🔭 **Capstone Project (Đồ án 2):** Phát triển hệ thống **AquariumStore** — Website Quản lý Cửa hàng & Thương mại Điện tử Thủy sinh bằng **ASP.NET Core MVC**, **Entity Framework Core**, và **SQL Server**.
+- 💡 **Interests / Sở thích:** Xây dựng hệ thống backend hiệu năng cao, tối ưu cơ sở dữ liệu, lập trình game và nghiên cứu phần cứng IoT (ESP32).
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools / Công nghệ & Công cụ
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -48,17 +49,19 @@
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Projects / Dự án tiêu biểu
 1. 🐠 **AquariumStore Management & E-Commerce System** — *ASP.NET Core MVC, EF Core, SQL Server, Chart.js*
-   - Full-stack platform for managing ornamental fish/aquatic supplies, inventory, orders, and revenue analytics.
-2. 🏙️ **New Trust City (GTA V RolePlay Server)** — *Lua, JS/HTML/CSS (NUI), SQL*
-   - Custom roleplay server architecture serving a community of **2,050+ members** with custom UI, jobs, and server-side optimization.
+   - Hệ thống web bán hàng và quản lý cửa hàng sinh vật cảnh / thủy sinh toàn diện. Tích hợp giỏ hàng, quản lý kho, phân quyền người dùng và biểu đồ thống kê doanh thu trực quan.
+2. 🏙️ **New Trust City (GTA V RolePlay Server)** — *Lua, NUI (HTML/CSS/JS), SQL*
+   - Dự án máy chủ game thực tế với cộng đồng **2,050+ người chơi**[cite: 12]. Tự tay lập trình hệ thống tính năng, giao diện NUI, tối ưu hóa băng thông và quản lý cơ sở dữ liệu người dùng quy mô lớn.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics / Thống kê hoạt động
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thanhnhan1214&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhan1214&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhnhan1214&theme=tokyonight" alt="GitHub Profile Details" />
+  <br/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhnhan1214&theme=tokyonight" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanhnhan1214&theme=tokyonight" alt="GitHub Stats" />
 </div>
