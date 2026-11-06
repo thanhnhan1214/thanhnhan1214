@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Lê%20Thành%20Nhân&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontY=38&desc=Software%20Engineer%20|%20Backend%20Developer&descSize=16&descColor=8b949e&stroke=3b82f6&strokeWidth=2" alt="Tech Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Lê%20Thành%20Nhân&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontY=38&desc=Software%20Engineer%20|%20Developer&descSize=16&descColor=8b949e&stroke=3b82f6&strokeWidth=2" alt="Tech Banner" />
 
   <p align="center">
     <a href="https://www.facebook.com/T.nhan004">
